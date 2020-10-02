@@ -1,0 +1,32 @@
+nav {
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+  background-color: chartreuse;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+}
+
+.Intro {
+  display: flex;
+  justify-content: center;
+}
+
+.Musik {
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+}
+
+.Musik img {
+  border: 10px chartreuse solid;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+}

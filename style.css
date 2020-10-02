@@ -1,0 +1,46 @@
+nav {
+  display: flex;
+  justify-content: space-around;
+  font-size: 30px;
+  background-color: bisque;
+}
+
+header {
+  display: flex;
+  font-size: 20px;
+  justify-content: space-around;
+  background-color: burlywood;
+}
+.img {
+  display: flex;
+
+  flex-direction: row;
+  justify-content: center;
+  font-size: 15px;
+  background-color: peru;
+}
+
+.text {
+  width: 300px;
+  margin-bottom: -30vh;
+  margin-left: 80px;
+}
+
+.textSecond {
+  float: right;
+  width: 300px;
+  margin-top: -65vh;
+  margin-right: 80px;
+}
+div {
+  display: flex;
+
+  flex-direction: row;
+
+  font-size: 15px;
+}
+
+footer {
+  background-color: black;
+  color: bisque;
+}

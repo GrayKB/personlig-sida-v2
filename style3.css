@@ -22,15 +22,16 @@ nav {
 }
 
 .textIntroLeft {
+  display: flex;
   float: left;
   width: 350px;
   font-size: 20px;
   background-color: peru;
   height: 350px;
+  align-items: center;
 }
 
 .textIntroMid {
-  color: antiquewhite;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -38,19 +39,17 @@ nav {
   margin-left: 450px;
   font-size: 20px;
   height: 350px;
-
-  background-image: url(gitarr.jpg);
-  background-position: center;
-  background-size: cover;
 }
 
 .textIntroRight {
+  display: flex;
   float: right;
   width: 350px;
   height: 350px;
   margin-top: -350px;
   font-size: 20px;
   background-color: peru;
+  align-items: center;
 }
 
 footer {

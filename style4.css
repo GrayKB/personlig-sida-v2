@@ -30,3 +30,9 @@ div {
   display: flex;
   justify-content: center;
 }
+
+footer {
+  margin-top: 160px;
+  background-color: black;
+  color: bisque;
+}
